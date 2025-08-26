@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyadarsani panda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DAML student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julie-04&label=Profile%20views&color=0e75b6&style=flat" alt="julie-04" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **GEN AI,MACHINE LEARNING AND DATA ANALYTICS**
 
-- 👯 I’m looking to collaborate on **Frontend development**
+- 👯 I’m looking to collaborate on **Impactful data and ml projects**
 
-- 🤝 I’m looking for help with **full stack developer**
+- 🤝 I’m looking for help with **deep learning techniques and model optimization**
 
-- 💬 Ask me about **frontend courses**
+- 💬 Ask me about **DSA,DAA,Datapreprocessing,predictiveb modeling**
 
 - 📫 How to reach me **priyadarsanipanda555@gmail.com**
 
-- ⚡ Fun fact **coding bugs were not named after an actual bugs**
+- ⚡ Fun fact **The amount of data generated daily is truly mind-boggling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
