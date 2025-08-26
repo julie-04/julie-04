@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julie-04&label=Profile%20views&color=0e75b6&style=flat" alt="julie-04" /> </p>
 
-- 🌱 I’m currently learning **GEN AI,MACHINE LEARNING AND DATA ANALYTICS**
+- 🌱 I’m currently learning **GEN AI,MACHINE LEARNING AND DATA ANALYTICS.**
 
-- 👯 I’m looking to collaborate on **Impactful data and ml projects**
+- 👯 I’m looking to collaborate on **Impactful data and ml projects.**
 
-- 🤝 I’m looking for help with **deep learning techniques and model optimization**
+- 🤝 I’m looking for help with **deep learning techniques and model optimization.**
 
-- 💬 Ask me about **DSA,DAA,Datapreprocessing,predictiveb modeling**
+- 💬 Ask me about **DSA,DAA,Datapreprocessing,predictive modeling.**
 
 - 📫 How to reach me **priyadarsanipanda555@gmail.com**
 
